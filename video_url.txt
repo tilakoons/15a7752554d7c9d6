@@ -1,0 +1,5 @@
+Player URL:
+https://tilakoons.github.io/player/?list=https://raw.githubusercontent.com/tilakoons/15a7752554d7c9d6/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/tilakoons/15a7752554d7c9d6/refs/heads/master/github_master.m3u8
